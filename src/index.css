@@ -1,0 +1,82 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --bg-ivory: #FAF7F2;
+    --bg-beige: #EFEAE2;
+    --surface-card: #FFFFFF;
+    --ink-primary: #23201E;
+    --ink-muted: #6B645E;
+    --border-sand: #E3DCD1;
+    --accent-dusty-blue: #6C8396;
+    --accent-blush: #CFA2A6;
+    --accent-champagne: #B99768;
+    --accent-sage: #7E8E7A;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    font-family: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, sans-serif;
+    background-color: var(--bg-ivory);
+    color: var(--ink-primary);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+  }
+}
+
+.font-serif-display {
+  font-family: "Cormorant Garamond", Georgia, serif;
+}
+
+.font-sans-body {
+  font-family: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.font-vinyl-script {
+  font-family: "Alex Brush", "Cormorant Garamond", cursive;
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+.text-balance {
+  text-wrap: balance;
+}
+
+@keyframes gentleFloat {
+  0%, 100% {
+    transform: translateY(0px) rotate(0deg);
+  }
+  50% {
+    transform: translateY(-7px) rotate(0.6deg);
+  }
+}
+
+@keyframes ribbonSway {
+  0%, 100% {
+    transform: rotate(-1.5deg);
+  }
+  50% {
+    transform: rotate(1.8deg);
+  }
+}
+
+.animate-float-gentle {
+  animation: gentleFloat 6s ease-in-out infinite;
+}
+
+.animate-ribbon-sway {
+  animation: ribbonSway 5s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-float-gentle,
+  .animate-ribbon-sway {
+    animation: none;
+  }
+}

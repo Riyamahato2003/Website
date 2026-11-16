@@ -1,0 +1,308 @@
+{
+  "styles": [
+    {
+      "id": "hatbox_bunny",
+      "name": {
+        "nl": "Hat Box met Pluchen Konijn",
+        "en": "Hat Box with Plush Bunny"
+      },
+      "subtitle": {
+        "nl": "Kristalheldere ballon op geschulpte hoedendoos",
+        "en": "Crystal-clear orb on scalloped floral hat box"
+      },
+      "description": {
+        "nl": "Onze signatuur-presentatie: een zacht bedje van wolkjes in een transparante ballon bovenop een luxe geschulpte bewaardoos.",
+        "en": "Our signature presentation: fluffy clouds inside a transparent orb perched atop a luxury scalloped keepsake hat box."
+      },
+      "demoPriceEur": 54,
+      "imageUrl": "/src/assets/images/style_hatbox_bunny_1794825464514.jpg",
+      "shippable": true,
+      "inStock": true,
+      "hasBalloonDome": true,
+      "recommendedInside": [
+        "pink_bunny",
+        "beige_bunny",
+        "cream_teddy"
+      ],
+      "defaultRibbon": "blush_pink"
+    },
+    {
+      "id": "wicker_carriage",
+      "name": {
+        "nl": "Rieten Kinderwagen Mand",
+        "en": "Wicker Baby Carriage Basket"
+      },
+      "subtitle": {
+        "nl": "Handgevlochten rotan op houten wieltjes",
+        "en": "Handwoven wicker carriage on solid wood wheels"
+      },
+      "description": {
+        "nl": "Een betoverende rieten kinderwagen met hortensia- of gipskruidaccenten, satijnen strik en gepersonaliseerd hartlabel.",
+        "en": "An heirloom wicker pram styled with delicate hydrangeas or baby’s breath, satin ribbon, and a personalised keepsake tag."
+      },
+      "demoPriceEur": 68,
+      "imageUrl": "/src/assets/images/style_wicker_carriage_1794825464666.jpg",
+      "shippable": false,
+      "inStock": true,
+      "hasBalloonDome": false,
+      "recommendedInside": [
+        "beige_romper",
+        "cream_teddy",
+        "lace_dress"
+      ],
+      "defaultRibbon": "dusty_blue"
+    },
+    {
+      "id": "moneygift_balloon",
+      "name": {
+        "nl": "Geldcadeau Ballon",
+        "en": "Moneygift Balloon"
+      },
+      "subtitle": {
+        "nl": "Zwevende ballon boven gevulde rieten mand",
+        "en": "Floating personalised orb above woven gift basket"
+      },
+      "description": {
+        "nl": "Combineer opgerolde bankbiljetten met een knuffeltje en gipskruid onder een gepersonaliseerde transparante ballon.",
+        "en": "Pairs neatly rolled banknote scrolls with a plush companion and baby’s breath beneath a custom lettered transparent orb."
+      },
+      "demoPriceEur": 58,
+      "imageUrl": "/src/assets/images/style_moneygift_balloon_1794825465901.jpg",
+      "shippable": true,
+      "inStock": true,
+      "hasBalloonDome": true,
+      "recommendedInside": [
+        "moneygift_rolls",
+        "cream_teddy",
+        "beige_bunny"
+      ],
+      "defaultRibbon": "dusty_blue"
+    },
+    {
+      "id": "outfit_balloon",
+      "name": {
+        "nl": "Babykleding Display Ballon",
+        "en": "Baby Outfit Display Balloon"
+      },
+      "subtitle": {
+        "nl": "Kleding setje gepresenteerd in wafeldoek-mand",
+        "en": "Baby outfit displayed inside orb on waffle-knit basket"
+      },
+      "description": {
+        "nl": "Een compleet babysette wordt zwevend en kreukvrij uitgestald in een grote transparante ballon op een zachte omslagdoek.",
+        "en": "A curated baby outfit suspended cleanly inside a crystal-clear balloon resting on a soft waffle-knit blanket basket."
+      },
+      "demoPriceEur": 56,
+      "imageUrl": "/src/assets/images/style_outfit_balloon_1794825464531.jpg",
+      "shippable": true,
+      "inStock": true,
+      "hasBalloonDome": true,
+      "recommendedInside": [
+        "beige_romper",
+        "lace_dress",
+        "name_onesie"
+      ],
+      "defaultRibbon": "cream"
+    },
+    {
+      "id": "gender_reveal",
+      "name": {
+        "nl": "Reuze \"It's a...\" Gender Reveal Ballon",
+        "en": "Giant \"It's a...\" Gender Reveal Balloon"
+      },
+      "subtitle": {
+        "nl": "Matte parelmoer-ivoren ballon met zijden linten",
+        "en": "Matte pearl ivory balloon with trailing silk ribbons"
+      },
+      "description": {
+        "nl": "Extra grote ondoorzichtige parelballon gevuld met roze of blauwe confetti naar keuze, afgewerkt met lange linten in dusty blue en blush.",
+        "en": "Statement matte pearl ivory reveal balloon filled with hidden pink or blue confetti and finished with trailing dusty blue and blush ribbons."
+      },
+      "demoPriceEur": 62,
+      "imageUrl": "/src/assets/images/style_gender_reveal_1794825466297.jpg",
+      "shippable": false,
+      "inStock": true,
+      "hasBalloonDome": true,
+      "recommendedInside": [
+        "own_gift",
+        "beige_bunny",
+        "cream_teddy"
+      ],
+      "defaultRibbon": "sage"
+    }
+  ],
+  "insideOptions": [
+    {
+      "id": "beige_bunny",
+      "category": "plush",
+      "name": {
+        "nl": "Beige Konijn Knuffel",
+        "en": "Beige Bunny Plush"
+      },
+      "description": {
+        "nl": "Boterzachte hangoor-konijn in warm zandbeige met ivoren satijnen strikje.",
+        "en": "Velvet-soft floppy-eared bunny in warm sand beige with ivory satin bow."
+      },
+      "demoPriceEur": 18,
+      "imageUrl": "/src/assets/images/inside_beige_bunny_1794825466098.jpg",
+      "inStock": true
+    },
+    {
+      "id": "pink_bunny",
+      "category": "plush",
+      "name": {
+        "nl": "Dusty Pink Konijn Knuffel",
+        "en": "Dusty Pink Bunny Plush"
+      },
+      "description": {
+        "nl": "Dromerig oudroze pluchen konijntje met verfijnde bloemvoering in de oortjes.",
+        "en": "Dreamy dusty blush pink plush bunny with delicate floral inner ears."
+      },
+      "demoPriceEur": 18,
+      "imageUrl": "/src/assets/images/inside_pink_bunny_1794825466527.jpg",
+      "inStock": true
+    },
+    {
+      "id": "cream_teddy",
+      "category": "plush",
+      "name": {
+        "nl": "Klassieke Crème Teddybeer",
+        "en": "Classic Cream Teddy Bear"
+      },
+      "description": {
+        "nl": "Tijdloze crèmekleurige teddybeer met champagne-satijnen strik.",
+        "en": "Timeless warm cream teddy bear finished with a champagne satin bow."
+      },
+      "demoPriceEur": 20,
+      "imageUrl": "/src/assets/images/inside_cream_teddy_1794825466184.jpg",
+      "inStock": true
+    },
+    {
+      "id": "beige_romper",
+      "category": "outfit",
+      "name": {
+        "nl": "Neutrale Beige Romper & Sokjes Set",
+        "en": "Neutral Beige Romper & Socks Set"
+      },
+      "description": {
+        "nl": "Grofgebreide biologisch katoenen romper met houten knoopjes en bijpassende slofjes.",
+        "en": "Organic cotton cable-knit baby romper with wooden buttons and matching booties."
+      },
+      "demoPriceEur": 25,
+      "imageUrl": "/src/assets/images/inside_beige_romper_1794825466937.jpg",
+      "inStock": true,
+      "requiresSize": true,
+      "sizes": [
+        "50/56",
+        "62/68"
+      ]
+    },
+    {
+      "id": "lace_dress",
+      "category": "outfit",
+      "name": {
+        "nl": "Witte Kanten Doop- / Feestjurk",
+        "en": "White Lace Christening / Special Dress"
+      },
+      "description": {
+        "nl": "Heirloom wit katoenen kanten jurkje met geborduurd kraagje en satijnen tailleband.",
+        "en": "Heirloom white cotton lace dress with embroidered collar and satin sash."
+      },
+      "demoPriceEur": 35,
+      "imageUrl": "/src/assets/images/inside_lace_dress_1794825467592.jpg",
+      "inStock": true,
+      "requiresSize": true,
+      "sizes": [
+        "50/56",
+        "62/68"
+      ]
+    },
+    {
+      "id": "name_onesie",
+      "category": "outfit",
+      "name": {
+        "nl": "Gepersonaliseerd Naam-Rompertje",
+        "en": "Personalised Name Onesie"
+      },
+      "description": {
+        "nl": "Zacht ivoren katoenen rompertje voorzien van geborduurde of gedrukte babynaam.",
+        "en": "Soft ivory organic cotton onesie personalised with the baby’s name."
+      },
+      "demoPriceEur": 22,
+      "imageUrl": "/src/assets/images/inside_name_onesie_1794825467483.jpg",
+      "inStock": true,
+      "requiresSize": true,
+      "sizes": [
+        "50/56",
+        "62/68"
+      ],
+      "supportsCustomName": true
+    },
+    {
+      "id": "moneygift_rolls",
+      "category": "moneygift",
+      "name": {
+        "nl": "Geldcadeau Opgerolde Biljet-Houders",
+        "en": "Moneygift Rolled Banknote Slots"
+      },
+      "description": {
+        "nl": "Kies 5, 10 of 20 met lint gestrikte houders. Bankbiljetten lever je zelf aan of stem je apart af.",
+        "en": "Choose 5, 10, or 20 ribbon-tied slots. Banknotes are provided by you separately and never included in this price."
+      },
+      "demoPriceEur": 12,
+      "imageUrl": "/src/assets/images/inside_moneygift_rolls_1794825467929.jpg",
+      "inStock": true,
+      "supportsBanknoteSlots": true
+    },
+    {
+      "id": "own_gift",
+      "category": "own_gift",
+      "name": {
+        "nl": "Eigen cadeau aanleveren",
+        "en": "Provide my own gift"
+      },
+      "description": {
+        "nl": "Wij verpakken jouw eigen knuffel, kleertje of sieraad vakkundig in een Ballonnette creatie.",
+        "en": "We artfully style and encapsulate your own keepsake, plush, or outfit inside a Ballonnette creation."
+      },
+      "demoPriceEur": 0,
+      "imageUrl": "/src/assets/images/inside_moneygift_rolls_1794825467929.jpg",
+      "inStock": true
+    }
+  ],
+  "settings": {
+    "shippingRateNL": null,
+    "shippingRateBE": null,
+    "shippingNote": {
+      "nl": "Verzendtarieven voor Nederland en België zijn bewerkbaar via Atelier Beheer en worden definitief bevestigd na je aanvraag.",
+      "en": "Shipping rates for the Netherlands and Belgium are editable in Owner Admin and confirmed upon enquiry."
+    },
+    "pickupLocations": [
+      {
+        "city": "Veenendaal",
+        "enabled": true,
+        "timeSlots": [
+          "10:00 – 12:00",
+          "13:00 – 16:00",
+          "16:30 – 18:30"
+        ]
+      },
+      {
+        "city": "Utrecht",
+        "enabled": true,
+        "timeSlots": [
+          "11:00 – 13:00",
+          "14:00 – 17:00"
+        ]
+      }
+    ],
+    "whatsappNumber": "",
+    "contactEmail": "",
+    "instagramHandle": "@ballonnette",
+    "demoPriceDisclaimer": {
+      "nl": "Alle getoonde eurobedragen zijn indicatieve demoprijzen ter illustratie en vormen geen geverifieerde Ballonnette-tarieven.",
+      "en": "All EUR prices shown are illustrative demo placeholders, not verified Ballonnette pricing."
+    }
+  },
+  "enquiries": []
+}

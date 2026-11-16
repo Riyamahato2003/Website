@@ -1,0 +1,6 @@
+{
+  "name": "Ballonnette — Luxury Gift Balloons",
+  "description": "Bespoke personalised gift balloons handcrafted in the Netherlands. Pickup in Veenendaal & Utrecht, shipping across the Netherlands and Belgium.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
